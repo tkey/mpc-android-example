@@ -48,7 +48,7 @@ dependencies {
     implementation 'com.github.grvgoel81:fetch-node-details-java:4.0.0'
     implementation 'com.github.grvgoel81:torus-utils-java:5.0.0'
     implementation 'com.github.tkey:web3-android-mpc-provider:0.0.3'
-    implementation 'com.github.tkey:tkey-android:v2-SNAPSHOT'
+    implementation 'com.github.tkey:tkey-mpc-android:0.1.1'
     implementation 'org.web3j:core:4.9.5'
 
     implementation 'com.google.code.gson:gson:2.9.1'
